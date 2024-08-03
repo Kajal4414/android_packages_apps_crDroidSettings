@@ -673,9 +673,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">忽略零打擾模式</string>
     <string name="flashlight_on_call_ignore_dnd_summary">零打擾模式下閃爍閃光燈</string>
     <string name="flashlight_on_call_rate_title">閃爍頻率</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">遊戲空間</string>
-    <string name="gaming_mode_summary">額外的功能，讓您有身臨其境的遊戲體驗</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel 風格動畫</string>
     <string name="pixel_navbar_anim_summary">針對兩鍵/三鍵導覽列啟用 Pixel 風格的動畫</string>

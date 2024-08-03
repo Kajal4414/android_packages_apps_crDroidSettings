@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignorera Stör-Ej</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Huruvida blinkning med ficklampa skall utföras när Stör-Ej läge är aktiverat</string>
     <string name="flashlight_on_call_rate_title">Blinkandets frekvens</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Spelyta</string>
-    <string name="gaming_mode_summary">Extra funktioner för en uppslukande spelupplevelse</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animering</string>
     <string name="pixel_navbar_anim_summary">Aktivera pixelanimering för 2-knappars / 3-knappars navigeringsfält</string>

@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignorar modo DND</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Escolher se a luz deve piscar quando o modo Não Incomodar estiver ativado</string>
     <string name="flashlight_on_call_rate_title">Taxa de intermitência</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Espaço de jogo</string>
-    <string name="gaming_mode_summary">Funcionalidades adicionais para uma experiência de jogo envolvente</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animação do pixel</string>
     <string name="pixel_navbar_anim_summary">Ativar animação no estilo pixel para a barra de navegação de 2 ou 3 botões</string>

@@ -676,9 +676,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignoruj tryb \"Nie przeszkadzać\"</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Włączenie migania, gdy aktywny jest tryb \"Nie przeszkadzać\"</string>
     <string name="flashlight_on_call_rate_title">Szybkość migania</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Przestrzeń gier</string>
-    <string name="gaming_mode_summary">Dodatkowe funkcje dla pełnoekranowego doświadczenia w grach</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animacja Pixel</string>
     <string name="pixel_navbar_anim_summary">Włącz animację w stylu Piksel dla 2-przyciskowego/3-przyciskowego paska nawigacji</string>

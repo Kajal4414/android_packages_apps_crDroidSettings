@@ -678,9 +678,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">تجاهل وضع عدم الإزعاج</string>
     <string name="flashlight_on_call_ignore_dnd_summary">تنبيه ضوء الفلاش اثناء تفعيل وضع عدم الإزعاج</string>
     <string name="flashlight_on_call_rate_title">معدل الوميض</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">مساحة الألعاب</string>
-    <string name="gaming_mode_summary">ميزات إضافية لتجربة الألعاب الغامرة</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">حركة Pixel</string>
     <string name="pixel_navbar_anim_summary">تمكين حركة نمط بكسل لشريط التنقل من زرين / 3 أزرار</string>

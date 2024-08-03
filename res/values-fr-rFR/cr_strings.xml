@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Flash en mode Ne Pas Déranger</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Forcer le flash en mode Ne Pas Déranger</string>
     <string name="flashlight_on_call_rate_title">Fréquence de clignotement</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Mode immersif</string>
-    <string name="gaming_mode_summary">Fonctionnalités supplémentaires pour une expérience de jeu immersive</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animation Pixel</string>
     <string name="pixel_navbar_anim_summary">Activer l\'animation de style Pixel pour la barre de navigation à 2 ou 3 boutons</string>

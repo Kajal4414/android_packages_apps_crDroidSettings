@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Negeer Niet storen</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Of te knipperen wanneer in Niet storen modus</string>
     <string name="flashlight_on_call_rate_title">Knipper frequentie</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Spel ruimte</string>
-    <string name="gaming_mode_summary">Extra functies voor de volledige game ervaring</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animatie</string>
     <string name="pixel_navbar_anim_summary">Pixel stijl animatie voor 2-knop / 3-knop navigatiebalk inschakelen</string>

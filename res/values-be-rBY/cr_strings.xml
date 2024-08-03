@@ -213,7 +213,7 @@
     <string name="power_menu_summary">Налада параметраў меню кнопкі сілкавання</string>
     <string name="power_menu_actions_title">Дзеянні</string>
     <string name="power_menu_screenshot_title">Здымак экрана</string>
-    <string name="power_menu_screenshot_summary">Утрымлівайце, каб вылучыць вобласць для здымка 
+    <string name="power_menu_screenshot_summary">Утрымлівайце, каб вылучыць вобласць для здымка
  экрана</string>
     <string name="power_menu_onthego_title">Рэжым «На хаду»</string>
     <string name="power_menu_advanced_title">Пашыранае меню перазагрузкі</string>
@@ -677,9 +677,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ігнараваць рэжым \"Не турбаваць\".</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Міргаць у рэжыме \"Не турбаваць\"</string>
     <string name="flashlight_on_call_rate_title">Частата мігцення</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Гульнявы рэжым</string>
-    <string name="gaming_mode_summary">Дадатковыя магчымасці для захапляльнага гульнявога вопыту</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Анімацыя Pixel</string>
     <string name="pixel_navbar_anim_summary">Уключыць анімацыю pixel для 2-х/3-х кнопкавай панэлі навігацыі</string>

@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignoreeri Mitte segada režiimi</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Kas vilgutada ka siis, kui Mitte segada režiim on aktiivne</string>
     <string name="flashlight_on_call_rate_title">Vilkumissagedus</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Mänguruum</string>
-    <string name="gaming_mode_summary">Lisafunktsioonid kaasahaarava mängukogemuse saamiseks</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixeli animatsioon</string>
     <string name="pixel_navbar_anim_summary">Luba Pixeli-stiilis animatsioon 2/3 nupuga navigeerimisribal</string>

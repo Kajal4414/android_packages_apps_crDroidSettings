@@ -675,9 +675,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignoriši režim Ne uznemiravaj</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Da li da svetli u Ne uznemiravaj režimu</string>
     <string name="flashlight_on_call_rate_title">Brzina treptanja</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Game space</string>
-    <string name="gaming_mode_summary">Extra features for immersive gaming experience</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animation</string>
     <string name="pixel_navbar_anim_summary">Enable pixel style animation for 2-button / 3-button navigation bar</string>

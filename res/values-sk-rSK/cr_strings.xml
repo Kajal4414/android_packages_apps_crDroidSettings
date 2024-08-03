@@ -78,7 +78,7 @@
     <string name="crdroid_website_title">Oficiálna webstránka</string>
     <string name="crdroid_website_summary">Navštívte našu oficiálnu stránku</string>
     <string name="crdroid_translate_title">Preklady</string>
-    <string name="crdroid_translate_summary">Pomoc s lokalizáciou ROM vo vašom jazyku! 
+    <string name="crdroid_translate_summary">Pomoc s lokalizáciou ROM vo vašom jazyku!
 Ashle-XDA [SLOVAK Preklad]</string>
     <string name="crdroid_sponsor_summary">Navštívte hostiteľa nášho webu</string>
     <string name="crdroid_buildserversponsor_summary">Doporučujeme ich servery, ak máte záujem</string>
@@ -677,9 +677,6 @@ Ashle-XDA [SLOVAK Preklad]</string>
     <string name="flashlight_on_call_ignore_dnd_title">Ignorovat režim Nerušit</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Určuje, či spustiť blikanie, keď je aktívny režim Nerušit</string>
     <string name="flashlight_on_call_rate_title">Frekvencia blikania</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Herný priestor</string>
-    <string name="gaming_mode_summary">Ďalšie funkcie pre pohlcujúci herný zážitok</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animácia Pixel</string>
     <string name="pixel_navbar_anim_summary">Povoliť animáciu v štýle pixelov pre 2-tlačidlovú / 3-tlačidlovú navigačnú lištu</string>

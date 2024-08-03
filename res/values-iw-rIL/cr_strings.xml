@@ -676,9 +676,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">התעלם ממצב נא לא להפריע</string>
     <string name="flashlight_on_call_ignore_dnd_summary">האם להבהב כאשר מצב \'נא לא להפריע\' פעיל?</string>
     <string name="flashlight_on_call_rate_title">תדירות הארה</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">מרכז משחקים</string>
-    <string name="gaming_mode_summary">פיצ\'רים נוספים לחוויית משחק סוחפת</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">הנפשת פיקסל</string>
     <string name="pixel_navbar_anim_summary">הפעל אנימציית פיקסל למצב 3 כפתורים בסרגל ניווט</string>

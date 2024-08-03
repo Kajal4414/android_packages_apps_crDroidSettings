@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Narahat etməyində məhəl qoyma</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Narahat etməyin modu açıq olduğunda yanıb-sön</string>
     <string name="flashlight_on_call_rate_title">Yanma sürəti</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Oyun hissəsi</string>
-    <string name="gaming_mode_summary">Oyun təcrübəsi üçün ekstra özəlliklər</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animasiyası</string>
     <string name="pixel_navbar_anim_summary">2 düyməli/3 düyməli navigasiya paneli üçün pixel stili animasiyaları aktiv et</string>

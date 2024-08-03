@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Игнорирайте не безпокойте</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Индикация, когато режимът „Не безпокойте“ е активен</string>
     <string name="flashlight_on_call_rate_title">Честота на индикация</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Игрово пространство</string>
-    <string name="gaming_mode_summary">Допълнителни функции при игрово изживяване</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Пиксел анимация</string>
     <string name="pixel_navbar_anim_summary">Активиране на анимация в пикселен стил за лентата за навигация с 2/3 бутона</string>

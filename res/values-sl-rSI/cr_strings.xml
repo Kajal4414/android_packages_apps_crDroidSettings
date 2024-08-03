@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Prispevajte, da podprete nadaljnji razvoj</string>
     <string name="donate_team_title">crDroid ekipa</string>
     <string name="donate_team_summary">Prispevajte, da podprete gostovanje strežnika, čas delovanja strani in upravljanje na splošno</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Posodobitve</string>
-    <string name="crdroid_update_summary">Preverite in prenesite zadnjo posodobitev</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Goovle Trgovina</string>
     <!-- Custom seekbar -->

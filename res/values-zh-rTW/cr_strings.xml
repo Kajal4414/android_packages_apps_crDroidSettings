@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">捐贈以支持開放原始碼開發。</string>
     <string name="donate_team_title">crDroid 團隊</string>
     <string name="donate_team_summary">贊助以支援我們的伺服器代管，網站運作與總體管理</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">更新</string>
-    <string name="crdroid_update_summary">檢查並下載最新的更新</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Play商店</string>
     <!-- Custom seekbar -->

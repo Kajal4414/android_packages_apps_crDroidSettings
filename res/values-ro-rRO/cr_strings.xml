@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Donează pentru a sprijini dezvoltarea ulterioară</string>
     <string name="donate_team_title">Echipa crDroid</string>
     <string name="donate_team_summary">Donați pentru a sprijini serverul de găzduire, site-ul uptime și managementul general</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Actualizări</string>
-    <string name="crdroid_update_summary">Verifică și descarcă ultima actualizare</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Magazin Play</string>
     <!-- Custom seekbar -->

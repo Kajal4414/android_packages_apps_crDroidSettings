@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Doneer om verdere ontwikkeling te ondersteunen</string>
     <string name="donate_team_title">crDroid team</string>
     <string name="donate_team_summary">Doneer ter ondersteuning van de server hosting, site uptime en algemeen beheer</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Updates</string>
-    <string name="crdroid_update_summary">Controleer en download de nieuwste updates</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
     <!-- Custom seekbar -->

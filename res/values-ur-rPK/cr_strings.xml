@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">حوصلہ افزائی کے لیے چندہ کریں</string>
     <string name="donate_team_title">سی ٓار ڈرایڈ کی جماعت</string>
     <string name="donate_team_summary">سرور اور دیگر امور کے لیے چندہ کریں</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">تازہ ترین</string>
-    <string name="crdroid_update_summary">تازہ ترین اپڈیٹس ڈاوٗنلوڈ کریں</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">گوگل پلے</string>
     <!-- Custom seekbar -->

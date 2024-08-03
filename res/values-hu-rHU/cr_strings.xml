@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Adomány a további fejlesztés támogatására</string>
     <string name="donate_team_title">A crDroid csapata</string>
     <string name="donate_team_summary">Adományozzon, hogy támogassa a szerverbérlést, a weboldal-fenntarást és menedzselést</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Frissítések</string>
-    <string name="crdroid_update_summary">OTA frissítés ellenőrzése</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play Áruház</string>
     <!-- Custom seekbar -->

@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Gələcəkdə inkişaf üçün bizə dəstək olun</string>
     <string name="donate_team_title">crDroid komandası</string>
     <string name="donate_team_summary">Server, sayt və ümumi yönətmə üçün bizə dəstək olun</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Yeniləmələr</string>
-    <string name="crdroid_update_summary">Ən son yeniləməni yoxlayın və endirin</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google play</string>
     <!-- Custom seekbar -->

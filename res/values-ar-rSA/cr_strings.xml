@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">تبرع لدعم المزيد من التطوير</string>
     <string name="donate_team_title">فريق crDroid</string>
     <string name="donate_team_summary">التبرع لدعم استضافة الخوادم، وموقع العمل الإضافي والإدارة العامة</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">التحديثات</string>
-    <string name="crdroid_update_summary">التحقق من أحدث تحديث وتحميله</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">في Google Play</string>
     <!-- Custom seekbar -->

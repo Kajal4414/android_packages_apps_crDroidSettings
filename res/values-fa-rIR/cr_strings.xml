@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">برای حمایت کردن از توسعه بیشتر کمک مالی کنید</string>
     <string name="donate_team_title">تیم crDroid</string>
     <string name="donate_team_summary">برای حمایت از میزبانی سرور، زمان کار سایت و مدیریت کلی کمک مالی کنید</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">بروزرسانی ها و آپدیت ها</string>
-    <string name="crdroid_update_summary">آخرین آپدیت را بررسی و دانلود کنید</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">گوگل پلی</string>
     <!-- Custom seekbar -->

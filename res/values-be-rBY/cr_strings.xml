@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Ахвяруйце для падтрымкі далейшага развіцця</string>
     <string name="donate_team_title">Каманда crDroid</string>
     <string name="donate_team_summary">Ахвяраваць на падтрымку хостынгу, сайта і агульныя задачы</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Абнаўленні</string>
-    <string name="crdroid_update_summary">Праверыць OTA абнаўленне і спасылкі для вашай прылады</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
     <!-- Custom seekbar -->

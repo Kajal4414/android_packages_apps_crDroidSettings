@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Đóng góp để hỗ trợ phát triển hơn nữa</string>
     <string name="donate_team_title">Đội ngũ crDroid</string>
     <string name="donate_team_summary">Đóng góp để hỗ trợ lưu trữ máy chủ thời gian hoạt động của trang mạng và quản lý tổng thể</string>
-    <!-- OTA -->
-    <string name="crdroid_update_title">Cập nhật</string>
-    <string name="crdroid_update_summary">Kiểm tra cập nhật</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Cửa hàng ứng dụng</string>
     <!-- Custom seekbar -->

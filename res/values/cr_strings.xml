@@ -100,10 +100,6 @@
     <string name="donate_team_title">crDroid team</string>
     <string name="donate_team_summary">Donate to support server hosting, site uptime and overall management</string>
 
-    <!-- OTA -->
-    <string name="crdroid_update_title">Updates</string>
-    <string name="crdroid_update_summary">Check and download latest update</string>
-
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 

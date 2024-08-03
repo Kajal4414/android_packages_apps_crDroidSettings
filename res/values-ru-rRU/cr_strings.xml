@@ -676,9 +676,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Игнорировать \"Не беспокоить\"</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Мигать в режиме \"Не беспокоить\"</string>
     <string name="flashlight_on_call_rate_title">Темп мигания</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Игровое пространство</string>
-    <string name="gaming_mode_summary">Дополнительные возможности для полноценного погружения в игру</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Анимация Pixel</string>
     <string name="pixel_navbar_anim_summary">Включить анимацию в стиле Pixel для 2-х/3-х кнопочной панели навигации</string>

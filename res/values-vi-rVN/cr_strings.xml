@@ -673,9 +673,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Bỏ qua chế độ không làm phiền</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Có nhấp nháy khi chế độ Không làm phiền đang hoạt động hay không</string>
     <string name="flashlight_on_call_rate_title">Tốc độ nhấp nháy</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Không gian trò chơi</string>
-    <string name="gaming_mode_summary">Các tính năng bổ sung cho trải nghiệm chơi game nhập vai</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Hiệu ứng Pixel</string>
     <string name="pixel_navbar_anim_summary">Bật hoạt ảnh kiểu pixel cho thanh điều hướng 2 nút / 3 nút</string>

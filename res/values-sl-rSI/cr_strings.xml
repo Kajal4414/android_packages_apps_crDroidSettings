@@ -676,9 +676,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Prezri Ne moti</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Utripaj, ko je način Ne moti dejaven</string>
     <string name="flashlight_on_call_rate_title">Hitrost utripa</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Igričarski prostor</string>
-    <string name="gaming_mode_summary">Dodatne značilnosti za poglobljeno igričarsko izkušnjo</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animacija</string>
     <string name="pixel_navbar_anim_summary">Omogoči pixel slog animacije za vrstico za krmarjenje z dvema / tremi gumbi</string>

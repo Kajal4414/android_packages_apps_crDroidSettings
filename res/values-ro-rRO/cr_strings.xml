@@ -675,9 +675,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignoră DND</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Dacă să luminăm intermitent atunci când modul Nu deranja este activ</string>
     <string name="flashlight_on_call_rate_title">Rata clipirii</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Spațiul de jocuri</string>
-    <string name="gaming_mode_summary">Caracteristici suplimentare pentru experiența de joc imersiv</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animație pixel</string>
     <string name="pixel_navbar_anim_summary">Activează animația în stil pixel pentru navigarea cu 2 sau 3 butoane</string>

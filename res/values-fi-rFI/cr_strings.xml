@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ohita Älä Häiritse</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Vilkutetaanko kun Älä Häiritse -tia on käytössä</string>
     <string name="flashlight_on_call_rate_title">Vilkkumisen tahti</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Pelitila</string>
-    <string name="gaming_mode_summary">Lisäominaisuudet kiehtovaan pelikokemukseen</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel-animaatio</string>
     <string name="pixel_navbar_anim_summary">Ota käyttöön pikselin tyylinen animaatio 2-painikkeen / 3-painikkeen navigointipalkille</string>

@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignorar DND</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Si s\'ha de parpellejar quan el mode No molestar està actiu</string>
     <string name="flashlight_on_call_rate_title">Velocitat de parpalleig</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Espai de jocs</string>
-    <string name="gaming_mode_summary">Característiques extra per a una experiència de joc immersiva</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animació de pixel</string>
     <string name="pixel_navbar_anim_summary">Activa l\'animació d\'estil de píxel per a la barra de navegació de 2 o 3 botons</string>

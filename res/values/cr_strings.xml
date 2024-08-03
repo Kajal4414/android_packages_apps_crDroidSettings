@@ -130,8 +130,8 @@
     <!-- Notification log -->
     <string name="notification_log_summary">Show notifications history log</string>
 
-    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] --> 
-    <string name="duration_less_than_one_minute">Less than 1 Minute</string> 
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Less than 1 Minute</string>
 
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">%1$s today</string>
@@ -432,8 +432,8 @@
     <string name="status_bar_battery_percent_title">Battery percent</string>
     <string name="status_bar_battery_percent_hidden">Hidden</string>
     <string name="status_bar_battery_percent_text_inside">Inside the icon</string>
-    <string name="status_bar_battery_percent_text_next_right">Next to the icon (right)</string> 
-    <string name="status_bar_battery_percent_text_next_left">Next to the icon (left)</string> 
+    <string name="status_bar_battery_percent_text_next_right">Next to the icon (right)</string>
+    <string name="status_bar_battery_percent_text_next_left">Next to the icon (left)</string>
     <string name="status_bar_battery_text_charging_title">Battery percentage when charging</string>
     <string name="status_bar_battery_text_charging_summary">Always display battery percentage when charging</string>
 
@@ -769,10 +769,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignore DND</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Whether to flash when Do Not Disturb mode is active</string>
     <string name="flashlight_on_call_rate_title">Blink rate</string>
-
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Game space</string>
-    <string name="gaming_mode_summary">Extra features for immersive gaming experience</string>
 
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel animation</string>

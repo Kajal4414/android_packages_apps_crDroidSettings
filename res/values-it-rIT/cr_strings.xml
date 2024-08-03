@@ -674,9 +674,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Ignora DND</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Indica se lampeggiare quando la modalità non disturbare è attiva</string>
     <string name="flashlight_on_call_rate_title">Frequenza di lampeggio</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Spazio di gioco</string>
-    <string name="gaming_mode_summary">Funzionalità extra per un\'esperienza di gioco coinvolgente</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animazione Pixel</string>
     <string name="pixel_navbar_anim_summary">Abilita l\'animazione in stile pixel per la barra di navigazione con 2 pulsanti / 3 pulsanti</string>

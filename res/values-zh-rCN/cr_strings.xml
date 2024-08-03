@@ -673,9 +673,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">忽略勿扰模式</string>
     <string name="flashlight_on_call_ignore_dnd_summary">勿扰模式激活时是否闪烁</string>
     <string name="flashlight_on_call_rate_title">闪烁频率</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">游戏空间</string>
-    <string name="gaming_mode_summary">尽情享受游戏带来的快乐吧！</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel 动画</string>
     <string name="pixel_navbar_anim_summary">为 2/3 按钮导航栏启用 Pixel 样式动画</string>

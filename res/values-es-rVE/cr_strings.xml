@@ -675,9 +675,6 @@ Mantén presionado para establecer</string>
     <string name="flashlight_on_call_ignore_dnd_title">Ignorar no molestar</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Parpadear cuando el modo no molestar está activo</string>
     <string name="flashlight_on_call_rate_title">Intervalo de parpadeo</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Espacio de juego</string>
-    <string name="gaming_mode_summary">Características adicionales para una experiencia de juego inmersiva</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animación Pixel</string>
     <string name="pixel_navbar_anim_summary">Activar animación de estilo píxel para la barra de navegación de 2 botones / 3 botones</string>

@@ -673,9 +673,6 @@
     <string name="flashlight_on_call_ignore_dnd_title">Abaikan Jangan Ganggu</string>
     <string name="flashlight_on_call_ignore_dnd_summary">Apakah akan berkedip saat mode Jangan Ganggu aktif</string>
     <string name="flashlight_on_call_rate_title">Tingkat kedipan</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Ruang Game</string>
-    <string name="gaming_mode_summary">Fitur ekstra untuk pengalaman bermain game yang impresif</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animasi Pixel</string>
     <string name="pixel_navbar_anim_summary">Aktifkan animasi gaya pixel untuk bilah navigasi 2/3 tombol</string>
